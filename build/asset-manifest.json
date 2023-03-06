@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8eb20739.css",
+    "main.js": "/static/js/main.08a2f7c2.js",
+    "static/js/787.bb815555.chunk.js": "/static/js/787.bb815555.chunk.js",
+    "static/media/gradient-top.png": "/static/media/gradient-top.e8ba2c85c99b873abeb6.png",
+    "static/media/screen-mobile-3.png": "/static/media/screen-mobile-3.5aba81ec9808b63a32ca.png",
+    "static/media/screen-mobile-2.png": "/static/media/screen-mobile-2.41e86857072f8f2fa154.png",
+    "static/media/hero-banner-1.png": "/static/media/hero-banner-1.8ccddc5fa90560d9952c.png",
+    "static/media/hero-banner-3.png": "/static/media/hero-banner-3.c03b08daac3cd44d8c74.png",
+    "static/media/hero-banner-2.png": "/static/media/hero-banner-2.cbd463af3e9c894c0592.png",
+    "static/media/screen-mobile-5.png": "/static/media/screen-mobile-5.ca8f5650c55979032979.png",
+    "static/media/solution-banner.png": "/static/media/solution-banner.cfff4ba53c9c149c3d4d.png",
+    "static/media/screen-mobile-4.png": "/static/media/screen-mobile-4.4d3e258b539a783da5c1.png",
+    "static/media/challenge-banner.png": "/static/media/challenge-banner.1a98c31505ae65ade142.png",
+    "static/media/screen-mobile-1.png": "/static/media/screen-mobile-1.2a4027223f38e27b5dc2.png",
+    "static/media/logo.svg": "/static/media/logo.ec3c943e3c794d3e39d1cfb3db0af82f.svg",
+    "static/media/discord-icon.svg": "/static/media/discord-icon.7c6cb2859ecd799aa1f5e5a810b91224.svg",
+    "index.html": "/index.html",
+    "static/media/twitter-icon.svg": "/static/media/twitter-icon.e626b8e2f5677778221659eeadbf8ffa.svg",
+    "static/media/close-icon.svg": "/static/media/close-icon.655c38f4aa60419b39b15a045879a1df.svg",
+    "static/media/menu-icon.svg": "/static/media/menu-icon.11229015f1521dba33b8dfb22c7330a6.svg",
+    "static/media/arrow-up-icon.svg": "/static/media/arrow-up-icon.3d750f7a50f05aaa463b2387aefe5abe.svg",
+    "static/media/arrow-down-icon.svg": "/static/media/arrow-down-icon.3864ec9f5a498b27f80f6f55fb1584a2.svg",
+    "main.8eb20739.css.map": "/static/css/main.8eb20739.css.map",
+    "main.08a2f7c2.js.map": "/static/js/main.08a2f7c2.js.map",
+    "787.bb815555.chunk.js.map": "/static/js/787.bb815555.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8eb20739.css",
+    "static/js/main.08a2f7c2.js"
+  ]
+}
